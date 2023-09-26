@@ -1,0 +1,8 @@
+prefix=/home/roborosx/catkin_ws/install
+
+Name: rmp01
+Description: Description of rmp01
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

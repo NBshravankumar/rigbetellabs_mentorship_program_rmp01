@@ -1,0 +1,2 @@
+rmp01:rmp01_bot_description
+-DCATKIN_DEVEL_PREFIX=/home/roborosx/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/roborosx/catkin_ws/install -G Unix Makefiles

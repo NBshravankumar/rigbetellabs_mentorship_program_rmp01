@@ -1,0 +1,8 @@
+prefix=/home/roborosx/catkin_ws/install
+
+Name: rmp01_bot_description
+Description: Description of rmp01_bot_description
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
